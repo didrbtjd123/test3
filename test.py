@@ -1,11 +1,8 @@
-import abc
+
 import streamlit as st
 import numpy as np
-import turtle
-import cv2
+
 import matplotlib.pyplot as plt
-import turtle
-import random
 import pandas as pd
 
 
