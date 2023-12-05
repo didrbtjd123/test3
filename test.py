@@ -1,24 +1,7 @@
-
 import streamlit as st
 import numpy as np
-
 import matplotlib.pyplot as plt
-import turtle
-import random
 import pandas as pd
-
-
-import streamlit as st
-import matplotlib.pyplot as plt
-import numpy as np
-import sys
-
-
-# pip install --upgrade streamlit
-
-
-
-
 
 col1,col2=st.columns(2)
 with col1:
