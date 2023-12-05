@@ -1,15 +1,24 @@
+
 import streamlit as st
 import numpy as np
+
 import matplotlib.pyplot as plt
+import turtle
+import random
 import pandas as pd
+
+
+import streamlit as st
+import matplotlib.pyplot as plt
+import numpy as np
 import sys
 
 
 # pip install --upgrade streamlit
 
 
-import sys
-sys.exit()
+
+
 
 col1,col2=st.columns(2)
 with col1:
@@ -22,6 +31,9 @@ with col2:
 
 '## : orange["자기소개"]'
 
+
+import sys
+sys.exit()
 col=st.columns(4)
 with col[0]:
     st.link_button("google(🌐)", "https://google.com")
@@ -31,7 +43,6 @@ with col[2]:
     st.link_button("daum(🇩)", "https://daum.com")
 with col[3]:
     st.link_button("facebook(ⓕ)","https://facebook.com")
-
 
 
 
